@@ -159,8 +159,8 @@ MonoBehaviour:
   entry: 0
   ShowTextScrolling: 1
   textSpeed: 10
-  characterNameIndex: 0
-  speech: 'Hey.. I need your help!
+  characterNameIndex: 1
+  speech: 'Goodbye Sheina! I hope you study well.
 
 '
   nameColour: {r: 0, g: 0.016628742, b: 1, a: 1}
@@ -544,7 +544,7 @@ MonoBehaviour:
   NodeColour: {r: 0.3529412, g: 0.38039216, b: 0.4117647, a: 1}
   entry: 0
   exit: 0
-  background: {fileID: 2800000, guid: 2ed135f51aa54004bbf51c08fa71c173, type: 3}
+  background: {fileID: 2800000, guid: 1d560fe75ddafb84f9ef3d2b7afc66df, type: 3}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -629,9 +629,9 @@ MonoBehaviour:
   NodeColour: {r: 0.3529412, g: 0.38039216, b: 0.4117647, a: 1}
   entry: 0
   exit: 0
-  imageLeft: {fileID: 2800000, guid: 1a4e175bb64941c48a81503999607c08, type: 3}
+  imageLeft: {fileID: 2800000, guid: 340fefed6e931ed4e9d5ca3ef02e3829, type: 3}
   imageMiddle: {fileID: 2800000, guid: 904db9ecfd63e8c42bd4e5f84df079cd, type: 3}
-  imageRight: {fileID: 2800000, guid: 7bba764b6315b064f928eacd30eeb771, type: 3}
+  imageRight: {fileID: 2800000, guid: 7cac8586ebb600d4285b084e048aa7a8, type: 3}
 --- !u!114 &2350727214068701711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -703,16 +703,14 @@ MonoBehaviour:
   entry: 0
   ShowTextScrolling: 1
   textSpeed: 0.5
-  characterNameIndex: 0
-  speech: 'Hello World
-
-'
+  characterNameIndex: 2
+  speech: Take care of yourself. I miss you already.
   nameColour: {r: 0, g: 0, b: 1, a: 1}
   textColour: {r: 0, g: 1, b: 0, a: 1}
   FontSize: 25
   exits:
-  - Nice to meet you
-  - Go to Next person
+  - Next
+  - No
 --- !u!114 &5338453606239727926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -834,7 +832,7 @@ MonoBehaviour:
   m_Name: Audio
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 1768, y: 88}
+  position: {x: 1784, y: 120}
   ports:
     keys:
     - entry
