@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   list:
   - Sheina
-  - Sheina's Dad
-  - Sheina's Mom
-  - Narrator
+  - Sheina's mom
+  - Sheina's dad
   - Lecturer
   - Student 1
   - Student 2
   - Mike
-  - Jason
   - Ben
+  - Jason
+  - Narrator
