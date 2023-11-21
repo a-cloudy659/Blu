@@ -1793,7 +1793,7 @@ MonoBehaviour:
   entry: 0
   ShowTextScrolling: 1
   textSpeed: 10
-  characterNameIndex: 7
+  characterNameIndex: 8
   speech: Let's meet next week after lecture and then we can discuss the project.
   nameColour: {r: 1, g: 1, b: 1, a: 0}
   textColour: {r: 1, g: 1, b: 1, a: 0}
@@ -2158,9 +2158,9 @@ MonoBehaviour:
   NodeColour: {r: 0.3529412, g: 0.38039216, b: 0.4117647, a: 1}
   entry: 0
   exit: 0
-  imageLeft: {fileID: 2800000, guid: d3d8fbf207312fe4cae54d1f5a71299a, type: 3}
+  imageLeft: {fileID: 2800000, guid: aaf0e3cb0267cfa4db82831d0e4f34f1, type: 3}
   imageMiddle: {fileID: 0}
-  imageRight: {fileID: 2800000, guid: 7c27358a2d645224e93f96ff110c44d2, type: 3}
+  imageRight: {fileID: 2800000, guid: d3d8fbf207312fe4cae54d1f5a71299a, type: 3}
 --- !u!114 &4953048350375298006
 MonoBehaviour:
   m_ObjectHideFlags: 0
