@@ -4274,7 +4274,7 @@ MonoBehaviour:
   NodeColour: {r: 0.3529412, g: 0.38039216, b: 0.4117647, a: 1}
   entry: 0
   exit: 0
-  background: {fileID: 2800000, guid: d070960a3e7331c4e9ff391348263ba7, type: 3}
+  background: {fileID: 2800000, guid: 783d4ec223977a94b949eb5a101fa2c8, type: 3}
 --- !u!114 &3855082015085260472
 MonoBehaviour:
   m_ObjectHideFlags: 0
